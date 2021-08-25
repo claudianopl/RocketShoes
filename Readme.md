@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GoFinances" src=".github/ignite.png" />
+  <img alt="Ignite" src=".github/ignite.png" />
 </h1>
 
 
@@ -19,7 +19,8 @@
  <a href="#-requisitos">Requisitos</a> | 
  <a href="#-tecnologias">Tecnologias</a> | 
  <a href="#%EF%B8%8F-como-executar">Como executar</a> | 
- <a href="#-licença">Licença</a>
+ <a href="#-licença">Licença</a> | 
+ <a href="#-Testes">Testes</a>
 </p>
 
 
@@ -49,17 +50,29 @@ O RocketShoes é uma aplicação de e-commerce que simula o Netshoes. Foi um des
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/claudianopl/DtMoney.git
+    $ git clone https://github.com/claudianopl/RocketShoes.git
 
     # Navegar para o diretório
-    $ cd DtMoney
+    $ cd RocketShoes
 
     # Instalar as package
     $ yarn
 
+    # Rodar o servidor
+    $ yarn server
+
     # Rodar o projeto
     $ yarn start
+
+     # Rodar os testes
+    $ yarn test
 ```
+
+
+## 🧪 Testes
+<h1 align="left">
+  <img alt="Ignite" src=".github/test.PNG" />
+</h1>
 
 
 ## 📝 Licença
